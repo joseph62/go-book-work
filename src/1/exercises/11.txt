@@ -1,0 +1,3 @@
+I ran the fetchall command with about a dozen sites. None of the sites ever failed to respond, 
+but slow response times would hold up the completion of the program. Faster sites were never held
+up by slower sites though.
